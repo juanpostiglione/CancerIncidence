@@ -1,0 +1,11 @@
+# ninja log v5
+1	548	1713845835697113166	CMakeFiles/CancerIncidence.dir/DataSets.cpp.o	14a9d02bcd55d21
+0	584	1713845835734597864	CMakeFiles/CancerIncidence.dir/main.cpp.o	6cc9205ba8a536c8
+0	667	1713845835817661807	CMakeFiles/CancerIncidence.dir/StatesGraph.cpp.o	47a526f27c2b1489
+667	699	1713845835850541028	CancerIncidence	54f1784646342c7b
+1	501	1713846150639148080	CMakeFiles/CancerIncidence.dir/StatesGraph.cpp.o	47a526f27c2b1489
+501	535	1713846150673426919	CancerIncidence	54f1784646342c7b
+2	639	1713846297848521810	CMakeFiles/CancerIncidence.dir/DataSets.cpp.o	14a9d02bcd55d21
+640	755	1713846297965034733	CancerIncidence	54f1784646342c7b
+2	592	1713846370692113070	CMakeFiles/CancerIncidence.dir/DataSets.cpp.o	14a9d02bcd55d21
+592	647	1713846370749248077	CancerIncidence	54f1784646342c7b
