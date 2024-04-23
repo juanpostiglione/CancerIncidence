@@ -1,13 +1,13 @@
-## US Cancer Incidence Analysis Project
+# US Cancer Incidence Analysis Project
 This project is designed to analyze cancer incidence data across the United States by state and county. Utilizing C++ for data processing, it constructs graph representations from CSV files to facilitate efficient querying of cancer statistics. The system allows users to interactively search data by state, county, or year and provides visual representations of data connections through adjacency matrices and lists.
 
-# Features 
+## Features 
 - Data Import: Automatically reads and processes data from CSV files.
 - Graphical Data Representation: Uses graphs, adjacency lists, and matrices for data analysis.
 - Interactive Search: Allows users to query data based on state, county, and year.
 - Performance Insights: Displays processing times for data queries, showcasing the efficiency of the data structures used.
 
-# User Guide
+## User Guide
 To interact with the application, follow the prompts displayed in the console:
 
 1) Choose Data Access Method:
@@ -25,10 +25,10 @@ To interact with the application, follow the prompts displayed in the console:
 3) Direct Data Interaction:
 Follow on screen prompts to enter state, county, or year as required.
 
-# Data Format
+## Data Format
 The data should be in CSV format with the following columns: County, State, Deaths, Population, Year. Ensure that files are placed in a data/ directory within the project folder.
 
-# Contributors
+## Contributors
 - Juan Postiglione
 - Jesus Gil
 - David Hintz
